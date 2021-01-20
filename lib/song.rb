@@ -60,6 +60,3 @@ class Song
   end
 
 end
-
-
-
